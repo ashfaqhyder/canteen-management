@@ -68,19 +68,22 @@ canteen-management/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/c057c945-636f-4b68-83c1-c952c42b06c7" />
+![Home Page](<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/cd15f97d-5d86-48d6-af84-b99716b4f96d" />
+
 )
 
 ---
 
 ### 🔐 Login Page
-![Login Page](<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/17db2742-2f6b-4a3f-8249-3f1fefc0dd25" />
+![Login Page](<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/c22e9428-f7c2-41d4-be95-aa8e35e4ac4e" />
+
 )
 
 ---
 
 ### 👨‍🎓 Student Dashboard
-![Student Dashboard](<img width="1917" height="987" alt="Screenshot 2025-05-15 123333" src="https://github.com/user-attachments/assets/3387f31c-fbd7-4d0a-9356-0302f34cdb40" />
+![Student Dashboard](<img width="1917" height="987" alt="Screenshot 2025-05-15 123333" src="https://github.com/user-attachments/assets/109f95f7-9db0-4239-9eeb-b6f934109ba3" />
+
 )
 
 ---
@@ -93,17 +96,20 @@ canteen-management/
 ---
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](<img width="1918" height="982" alt="Screenshot 2025-05-15 130322" src="https://github.com/user-attachments/assets/3ea9e02d-f6d1-41ba-b18c-8350dae766c8" />
+![Admin Dashboard](<img width="1918" height="982" alt="Screenshot 2025-05-15 130322" src="https://github.com/user-attachments/assets/2ce23681-70b5-4e70-b402-b72ea5b1ebfd" />
+
 )
 
+
+
+### 📦 Order Management
+![Order Management](<img width="1917" height="977" alt="Screenshot 2025-05-15 123806" src="https://github.com/user-attachments/assets/51bbc83f-3b8c-4788-a1b7-eaf5d2e7eb5b" />
+
+)
+
+---
 ---
 Author
 
 Ashfaq Hyder C S
 This project is developed for educational purposes.
-
-### 📦 Order Management
-![Order Management](<img width="1917" height="977" alt="Screenshot 2025-05-15 123806" src="https://github.com/user-attachments/assets/1126785d-ca22-4d7c-ae0e-f297a790dc84" />
-)
-
----
